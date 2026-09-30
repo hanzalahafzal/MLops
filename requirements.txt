@@ -1,0 +1,6 @@
+transformers<5
+gradio
+torch
+pytest
+pylint
+black
